@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  m_GroupName: Enemy
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dcf7c5430f01ae44496524149acde318
+  m_SerializeEntries:
+  - m_GUID: 7b7bfdeb367dec64fb6d31f8a39f8cfb
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdb9cc878bdd3f54a9ea78421c272a89
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 205952a6697ea2d479563ee6ed66a11b
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c2e07714d1037a4eb22d1e58629c5be
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d29573f191977934b9c01b018070e9f3
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce2cf86103ed399499e3507e2a7e9fc7
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2be6d64e84b93a4d989642795db7ee3
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f96f895221d5ae14e8655387ff9e0e7f
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/0_OriginalOrc/Orc8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abe01fed33e70c54aa711fde8c48cb24
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a79537425a2aab43b4c195856aa3f7d
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ad933357ce3c5048a715d62d9e397c6
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 141e53960102be7478038f0f6e99e9ed
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53cdd42e7e431ac4c8dc15466d495b2e
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4bccd0b7ce436b4aa640c07eb513ebe
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbb3731f9159bbd42b8bcd951d1e2d57
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d14f93cd8766aac4fb76e65fc328430a
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/1_GreenOrc/GreenOrc8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a834ee1c273a0fa42b2505fb8051504b
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c61edbb1154b2784cb50ef3d9dafb56e
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e65299678022f254699211c486ba3b19
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 672ce64457fe6c743a17a97e41e4c819
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0e2a2f885ea114ea02ecc84464f0f1
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a19e3c4b516e3984b841f5183bc2e9fb
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a66a3ed3210e26642af958886944e0fb
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 960818e682a9d7a45bf1c05f3fc171d2
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/2_BlueOrc/BlueOrc8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0f1986f7214eb459539e0d0a05c183
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03668c1db85fd542805c454609f30c8
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b866f800c123b1f45812de6563abbd2f
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48854b83fdca1e047aba3f468b4c7f27
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed1a86542ac96d7498501d0be02192b0
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da8216530341da04fb10ab1a6e1d4727
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1e8c5a656eb7fe4fb7f57b427254308
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eb815c3e5a395d43a5eef34d40323d2
+    m_Address: Assets/SPUM/MonsterOrc_Prefabs/3_RedOrc/RedOrc8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89bb2143bd6d04e579bef0bb58be6fdd
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41489496a7f6749259edfc406e2f7300
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66adb57caf6d74640bc11efbc4b2c4f5
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c1b05170f52045f1a6d3ac26f923977
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 575496488fb9a45b4b9e4c01f348efa7
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aebfc2603b7064703b36a81698e1a1bf
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b39d5013346e432589fe0b722ff8b8a
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8d417a9f76c64d3d82aea0283a7d0a3
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/1_NormalZombie/NormalZombie8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 268be89ae4bd44475bbe2a77765347b8
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8987aaf896c84c90ab9999e9300532b
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d32b76f2ce06d42fea0991f3bb43b82d
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66b5b1aee14ea422d8b02039100db2df
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eb4d5a605cc64a55ae8fc262a67ed19
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 078f0fc1e64834668934a84f98dfbb0c
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a50817fcd66dd40739439a7cb9476548
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 285d50a243dae414081159ac18dca46a
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/2_EliteZomibes/EliteZombie8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7da902a0a4bf4ba9bf3ed4c4cb4a75c
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0d5bad469d9640ab834f8b877bf2023
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99a351c39bf8541fc9cb4bf8e8223952
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c84761a9944a4a4a844fd1d2f491a2d
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a363e5d312d4c4c1c9396afbd34b6d7a
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7cd80e875a5f450d911ea0d98ac2084
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b49a0c291948044649f7fa28c4e08258
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d21c661b15ec94211a74c98c13d45d46
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/3_SpecailZombies/SpecialZombie8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e2d8848918074ced85fd4e82acd7d11
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 853d6db423e5440818c1d024ac4328e9
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83c37e73fd50f492dbb2b08fa20ff94f
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 204c41b0a82c84d1e8f26e53dd0d7b90
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09ea630f933b740cb8bc4e69f37da5e1
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ac227cabeec343c8b1c5b81efd24a8d
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4859026a83e64c9cb101dc5b43d94be
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03fb66cd12be747d0ac72b8a43db8a6d
+    m_Address: Assets/SPUM/MonsterUndeadPrefabs/4_TeamSkeleton/TeamSkeleton8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fb4f26c1acecf2a4fb33cd46bf3ac92d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8cb2dd2961152494ebec39c1652c6f01, type: 2}
+    - {fileID: 11400000, guid: c4c7d7d04134cf04aad151ffdf17ee45, type: 2}
